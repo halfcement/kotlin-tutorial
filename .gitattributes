@@ -1,6 +1,6 @@
-*.js linguist-language=javascript
-*.css linguist-language=css
-*.html linguist-language=html
-*.java linguist-language=java
-*.kt linguist-language=kt
-*.dart linguist-language=dart
+*.js linguist-language=javascript;
+*.css linguist-language=css;
+*.html linguist-language=html;
+*.java linguist-language=java;
+*.kt linguist-language=kt;
+*.dart linguist-language=dart;
